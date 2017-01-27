@@ -1,0 +1,1 @@
+Select top 5 * from [2AM].dbo.Account
